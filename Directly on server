@@ -1,0 +1,5 @@
+1. Download maven, tomcat
+2. create the war package
+3. copy the war package in webapps folder
+4. ./startup.sh 
+5. access site on <publicip>:8080/<warpackage>
